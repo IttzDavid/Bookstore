@@ -1,1 +1,1 @@
-Import 'bookstore.sql' from "db" folder to xampp!!!
+Import 'bookstore.sql' from "db" folder to myphpadmin!!!
